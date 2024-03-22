@@ -8,7 +8,7 @@ def func1():
 
 
 def func2():
-    return func1() + ' | query'
+    return func1() + ' | add | query'
 
 
 def func3():
