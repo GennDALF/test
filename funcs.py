@@ -10,3 +10,7 @@ def func1():
 def func2():
     return func1() + ' | test'
 
+
+def func3():
+    return func2() + ' & test'
+
