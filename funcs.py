@@ -8,5 +8,5 @@ def func1():
 
 
 def func2():
-    return func1() + ' & test'
+    return func1() + ' | test'
 
