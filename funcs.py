@@ -1,5 +1,6 @@
 
-def func2():
+def func1():
+    """"""
     return 'func2'
 
 
